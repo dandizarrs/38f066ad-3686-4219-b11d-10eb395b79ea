@@ -1,0 +1,4 @@
+1790704830s 1 https://dandiarchive.s3.amazonaws.com/zarr/38f066ad-3686-4219-b11d-10eb395b79ea/processing/VISp_2/image_segmentation/roi_table/image_mask/0.4.0?versionId=h2W5wPczEN3GlqrD6vhxuZRKRQQswA64
+1790704830s 1 https://api.dandiarchive.org/api/zarr/38f066ad-3686-4219-b11d-10eb395b79ea/files?prefix=processing%2FVISp_2%2Fimage_segmentation%2Froi_table%2Fimage_mask%2F0.4.0&download=true
+1790704860s 1 https://dandiarchive.s3.amazonaws.com/zarr/38f066ad-3686-4219-b11d-10eb395b79ea/processing/VISp_4/image_segmentation/roi_table/image_mask/6.4.0?versionId=zeIgpgVab0.lUDCj98oGvwr6Ti_2l9c2
+1790704860s 1 https://api.dandiarchive.org/api/zarr/38f066ad-3686-4219-b11d-10eb395b79ea/files?prefix=processing%2FVISp_4%2Fimage_segmentation%2Froi_table%2Fimage_mask%2F6.4.0&download=true

@@ -1,0 +1,4 @@
+1790704892s 1 https://dandiarchive.s3.amazonaws.com/zarr/38f066ad-3686-4219-b11d-10eb395b79ea/processing/behavior/running/running_speed/data/.zattrs?versionId=2KYL8FLsC4jDLeW8TkV5uw7qK7riZmB2
+1790704892s 1 https://api.dandiarchive.org/api/zarr/38f066ad-3686-4219-b11d-10eb395b79ea/files?prefix=processing%2Fbehavior%2Frunning%2Frunning_speed%2Fdata%2F.zattrs&download=true
+1790704892s 1 https://dandiarchive.s3.amazonaws.com/zarr/38f066ad-3686-4219-b11d-10eb395b79ea/processing/behavior/running/running_speed_filtered/data/.zattrs?versionId=sCBYMtsci1TrE.Ms9EavLxB9Dwnllwto
+1790704892s 1 https://api.dandiarchive.org/api/zarr/38f066ad-3686-4219-b11d-10eb395b79ea/files?prefix=processing%2Fbehavior%2Frunning%2Frunning_speed_filtered%2Fdata%2F.zattrs&download=true
